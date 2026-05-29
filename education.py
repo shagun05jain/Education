@@ -1,1 +1,1 @@
-print("Hello Abhisar, you're a professional teacher so far")
+print("Hi World, I am learning GitHub")
